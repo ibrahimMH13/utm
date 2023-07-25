@@ -1,0 +1,11 @@
+<?php
+return  [
+    'subjects'=>[
+        'SOFTWARE CONSTRUCTIONS',
+        'INFORMATICS IN SOCIETY',
+        'SOFTWARE PROJECT & CONFIGURATION MANAGEMENT',
+        'SOFTWARE QUALITY ASSURANCE',
+        'SOFTWARE DESIGN',
+        'SOFTWARE REQUIREMENTS'
+    ]
+];
